@@ -178,7 +178,7 @@ Chronological list of updates, bug fixes, new features, and other modifications 
 **For questions about this coursework:**
 
 - **Students**: [Jay Arre Talosig](flexycode.dev@gmail.com)
-- **Course**: CCOPSYSL - Operating Systems
+- **Course**: CTINASSL - Information Assurance and Security
 - **Institution**: National University
 
 
