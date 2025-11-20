@@ -79,7 +79,7 @@ All lab assignments, resources, and reports will be organized following the stru
 ```
 CTINASSL/
 ├── activity/
-│   ├── TBA/
+│   ├── LEC AC1/
 ├── assignments/
 │   ├── assignment1-TBA/
 │   ├── assignment2-TBA/
