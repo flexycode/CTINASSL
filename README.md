@@ -5,7 +5,7 @@
 # 🛡️ Information Assurance and Security (CTINASSL)
 
 ### Name: [Jay Arre Talosig](https://github.com/flexycode)  
-### Subject & Section: [CCOPSYSL - COM232](https://onlineapp.national-u.edu.ph/portal/services.php)
+### Subject & Section: [CCTINASSL - COM231](https://onlineapp.national-u.edu.ph/portal/services.php)
 ### Schedule: [TUE 03:00PM - 05:40 PM VR03CCIT - FRI 03:00PM - 07:00 PM 410 MB](https://calendly.com/)
 ### Professor: [Mr. Gaudencio Jeffrey G. Romano](https://www.foi.gov.ph/agencies/pnp/)     
 ### No. of Units: [3 Units](https://www.youtube.com/watch?v=UVJSA2N39NU&list=RDUVJSA2N39NU&start_radio=1)
