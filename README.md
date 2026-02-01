@@ -95,12 +95,19 @@ CTINASSL/
 │   ├── module6-TBA/
 │   └── module7-TBA/
 ├── labs/
-│   ├── lab1-schedule&resume/
-│   ├── lab2-TBA/
+│   ├── LAB AC1 - SCHEDULE
+│   ├── LAB AC2 - NODE INSTALLATION + Backend Mongoose
 │   ├── lab3-TBA/
 │   ├── lab4-TBA/
 │   ├── lab5-TBA/
 │   └── lab6-TBA
+│
+├── week 1/
+├── week 2/
+├── week 3/
+├── week 4/
+├── week 5/
+├── week 6/
 │
 ├── x-Final Project/
 │   └── README.md/
