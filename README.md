@@ -80,16 +80,18 @@ All lab assignments, resources, and reports will be organized following the stru
 CTINASSL/
 ├── activity/
 │   ├── LEC AC1/
+│   ├── LEC AC2/
+│
 ├── assignments/
-│   ├── assignment1-TBA/
-│   ├── assignment2-TBA/
-│   ├── assignment3-TBA/
+│   ├── assignment1-
+│   ├── assignment2-LEC AS2 - SEC POLICY
+│   ├── assignment3-LEC AS3 - RISK
 │   ├── assignment4-TBA/
 │   └── assignment5-TBA/
 ├── lectures/
-│   ├── module1-introduction/
-│   ├── module2-TBA/
-│   ├── module3-TBA/
+│   ├── LEC AC1 - 📚Filler/
+│   ├── LEC AC2 - 📚Filler/
+│   ├── LEC AC3 - 📚Filler//
 │   ├── module4-TBA/
 │   ├── module5-TBA/
 │   ├── module6-TBA/
@@ -102,12 +104,12 @@ CTINASSL/
 │   ├── lab5-TBA/
 │   └── lab6-TBA
 │
-├── week 1/
-├── week 2/
-├── week 3/
-├── week 4/
-├── week 5/
-├── week 6/
+├── week 1 - 🛡️ Introduction to Information Security
+├── week 2 - 🛡️ Professional Issues in Information Security
+├── week 3 - 🛡️ Planning for Security
+├── week 4 - 🛡️ Risk Management
+├── week 5 - 🛡️ Cryptography and Steganography
+├── week 6 - 🛡️ Overview of Vulnerability Assessment
 │
 ├── x-Final Project/
 │   └── README.md/
@@ -119,6 +121,7 @@ CTINASSL/
 │   ├── textbooks/
 │   ├── reference-materials/
 │   └── useful-links.md
+├── LICENSE
 └── README.md
 
 ```
